@@ -20,7 +20,7 @@ on:
     paths:
       - 'config/CM520.config'
   schedule:
-    - cron: 0 4 * * 5
+    - cron: 0 4 * * 7
 #  watch:
 #    types: started
 
